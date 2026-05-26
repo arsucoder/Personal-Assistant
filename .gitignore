@@ -8,6 +8,3 @@ wheels/
 
 # Virtual environments
 .venv
-
-# video files
-n8n_masterclass_2.mp4
