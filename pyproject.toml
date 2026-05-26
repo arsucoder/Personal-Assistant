@@ -1,7 +1,7 @@
 [project]
-name = "n8n-masterclass"
+name = "n8n-project"
 version = "0.1.0"
-description = "Add your description here"
+description = "Personal-assisstant-workflow automation using n8n"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
