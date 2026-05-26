@@ -1,5 +1,5 @@
 [project]
-name = "n8n-project"
+name = "Personal-Assistant"
 version = "0.1.0"
 description = "Personal-assisstant-workflow automation using n8n"
 readme = "README.md"
